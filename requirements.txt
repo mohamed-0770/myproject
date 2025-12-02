@@ -8,4 +8,3 @@ python-dotenv
 prometheus-client
 psycopg2-binary
 sqlmodel
-sys
